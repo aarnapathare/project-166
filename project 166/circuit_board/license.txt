@@ -1,0 +1,11 @@
+Model Information:
+* title:	circuit board
+* source:	https://sketchfab.com/3d-models/circuit-board-177eef86d2334c649bc7d2d9648cd839
+* author:	xiezhong (https://sketchfab.com/xiezhong)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "circuit board" (https://sketchfab.com/3d-models/circuit-board-177eef86d2334c649bc7d2d9648cd839) by xiezhong (https://sketchfab.com/xiezhong) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
